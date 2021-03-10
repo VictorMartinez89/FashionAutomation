@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-10T02:47:24.765404Z</date>
+  <millis>1615344444765</millis>
+  <nanos>404000</nanos>
+  <sequence>0</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>OFF</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>MLogger was Initialized</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:24.888511Z</date>
+  <millis>1615344444888</millis>
+  <nanos>511000</nanos>
+  <sequence>1</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>OFF</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Browser instance of chrome</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:27.052132Z</date>
+  <millis>1615344447052</millis>
+  <nanos>132000</nanos>
+  <sequence>3</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Setting URL Before Test - ESPN Homepage</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:27.178791Z</date>
+  <millis>1615344447178</millis>
+  <nanos>791000</nanos>
+  <sequence>4</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Creating POM of Fashion Homepage</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:29.634675Z</date>
+  <millis>1615344449634</millis>
+  <nanos>675000</nanos>
+  <sequence>5</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Instance of Home Page already created</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:29.636496Z</date>
+  <millis>1615344449636</millis>
+  <nanos>496000</nanos>
+  <sequence>6</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Awaiting for the screen to be loaded. referenceElement. Max wait: {} seconds</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:29.787361Z</date>
+  <millis>1615344449787</millis>
+  <nanos>361000</nanos>
+  <sequence>7</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Elapsed time awaiting for the screen to be loaded in seconds : 0</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:29.795735Z</date>
+  <millis>1615344449795</millis>
+  <nanos>735000</nanos>
+  <sequence>8</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Assert TEST Home page</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:30.191178Z</date>
+  <millis>1615344450191</millis>
+  <nanos>178000</nanos>
+  <sequence>9</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Clearing the instances for a new test case</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:30.199571Z</date>
+  <millis>1615344450199</millis>
+  <nanos>571000</nanos>
+  <sequence>10</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Assert TEST Results page</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.025901Z</date>
+  <millis>1615344452025</millis>
+  <nanos>901000</nanos>
+  <sequence>11</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Awaiting for the screen to be loaded. referenceElement. Max wait: {} seconds</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.156572Z</date>
+  <millis>1615344452156</millis>
+  <nanos>572000</nanos>
+  <sequence>12</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Elapsed time awaiting for the screen to be loaded in seconds : 0</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.385136Z</date>
+  <millis>1615344452385</millis>
+  <nanos>136000</nanos>
+  <sequence>13</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Clearing the instances for a new test case</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.390679Z</date>
+  <millis>1615344452390</millis>
+  <nanos>679000</nanos>
+  <sequence>14</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Assert TEST Add to Cart page</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.872873Z</date>
+  <millis>1615344452872</millis>
+  <nanos>873000</nanos>
+  <sequence>15</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Awaiting for the screen to be loaded. referenceElement. Max wait: {} seconds</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.944210Z</date>
+  <millis>1615344452944</millis>
+  <nanos>210000</nanos>
+  <sequence>16</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>INFO</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Elapsed time awaiting for the screen to be loaded in seconds : 0</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:32.982283Z</date>
+  <millis>1615344452982</millis>
+  <nanos>283000</nanos>
+  <sequence>17</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Number of contexts available : 1</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:33.790440Z</date>
+  <millis>1615344453790</millis>
+  <nanos>440000</nanos>
+  <sequence>18</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Total Shipping Value : $2.00</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:33.888691Z</date>
+  <millis>1615344453888</millis>
+  <nanos>691000</nanos>
+  <sequence>19</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>WARNING</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Clearing the instances for a new test case</message>
+</record>
+<record>
+  <date>2021-03-10T02:47:33.890412Z</date>
+  <millis>1615344453890</millis>
+  <nanos>412000</nanos>
+  <sequence>20</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>OFF</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Ending up the Browser instance </message>
+</record>
+<record>
+  <date>2021-03-10T02:47:33.966437Z</date>
+  <millis>1615344453966</millis>
+  <nanos>437000</nanos>
+  <sequence>21</sequence>
+  <logger>com.enterprise.fashion.web.utils.MLogger</logger>
+  <level>OFF</level>
+  <class>com.enterprise.fashion.web.utils.MLogger</class>
+  <method>setLOGGER</method>
+  <thread>1</thread>
+  <message>Closing Suite Instance</message>
+</record>
+</log>

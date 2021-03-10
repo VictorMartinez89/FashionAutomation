@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "DEMO Guru ALERT Suite Test" >
+
+    <parameter name ="Browser" value ="chrome"/>
+    <test name = "Test FASHION Homepage">
+       <parameter name ="URL_Homepage" value ="http://automationpractice.com/index.php"/>
+        <classes>
+            <class name = "com.enterprise.fashion.web.tests.HomepageTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
